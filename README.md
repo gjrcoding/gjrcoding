@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 996 哭
+- 🔭 I’m currently working on 996 😭
 
 - 🌱 I’m currently learning vue
