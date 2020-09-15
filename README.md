@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 996 😭
 
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning react & vue
